@@ -1,2 +1,3 @@
-# cornell-splash-intro-to-copyright
-My Intro to Copyright presentation for Cornell Splash
+# Intro to Copyright presentation for Cornell Splash
+
+Short URL: https://git.io/vPrVw
