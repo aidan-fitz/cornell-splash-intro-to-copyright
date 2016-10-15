@@ -1,11 +1,6 @@
 \documentclass{beamer}
-\usepackage{fontspec}
-\setmainfont[Ligatures=TeX]{Linux Libertine O}
-\setmonofont{Courier 10 Pitch} %{Ubuntu Mono}%
-\usefonttheme{serif}
-\frenchspacing
 
-\title[Intro to Copyright]{Introduction to Copyright Law}
+\title{The History and Politics of Copyright Law}
 % \subtitle{}
 \author{
 Aidan Fitzgerald \\
@@ -14,46 +9,24 @@ Aidan Fitzgerald \\
 
 \date{November 5, 2016}
 
+\input{style.tex}
+
 \begin{document}
+%\newcommand{heading}[1]{\textbf{\color{blue} #1}}
 
 \begin{frame}
   \titlepage
 \end{frame}
 
-\begin{frame}
-  \frametitle{About Me}
-
-  I'm a freshman at the College of Engineering. I'm a native New Yorker,
-  my intended major is Computer Science, and I'm passionate about open source
-  and social justice. Naturally, I have my own views on copyright, but I'm going
-  to stick to the facts as much as possible.
-
-\end{frame}
+\input{about.tex}
 
 \begin{frame}
-  \frametitle{``Meta-Copyright''}
-
-  Copyright \textcopyright{} 2016 Aidan Fitzgerald
-  \\~\\
-  This presentation is available under the \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative
-  Commons Attribution--ShareAlike 4.0 International License}.
-  \\~\\
-  View it on GitHub: \url{https://git.io/vPrVw}
-
+  \frametitle{Contents}
+  \tableofcontents
 \end{frame}
 
-\section[Origins and History]{Origins and History of Copyright Law}
+\input{basics.tex}
 
-\begin{frame}
-  \frametitle{Copyright in the U.S. Constitution}
-
-  ``[The Congress shall have Power] To promote the Progress of Science and useful
-  Arts, by securing for limited Times to Authors and Inventors the exclusive
-  Right to their respective Writings and Discoveries.''
-
-  \begin{flushright}
-    ---Article I, Section 8, Clause 8
-  \end{flushright}
-\end{frame}
+\input{origins.tex}
 
 \end{document}
