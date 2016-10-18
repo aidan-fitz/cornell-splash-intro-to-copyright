@@ -1,4 +1,5 @@
 # Introduction to Copyright Law
+## The Business, History, and Politics of Copyright
 
 _Aidan Fitzgerald @ Cornell Splash_
 
@@ -9,5 +10,5 @@ License](https://creativecommons.org/licenses/by-sa/4.0/).
 Start with a feel-good story about how an author and two fan artists resolved
 a situation in which two sets of copyrights were almost violated.
 
-[Across Three Continents: A Tale of Tumblr, Copyright, and Excellent
-Posters](https://www.youtube.com/watch?v=tHp3c9ziIq0)
+[![Across Three Continents: A Tale of Tumblr, Copyright, and Excellent
+Posters](images/john-green-tumblr-copyright-posters.png)](https://www.youtube.com/watch?v=tHp3c9ziIq0)
